@@ -1,0 +1,1 @@
+A simple "hello world" plugin for Jojo. Demonstrates the basic structure of plugins for Jojo CMS.

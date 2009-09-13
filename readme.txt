@@ -1,0 +1,1 @@
+The hello world plugin is a basic example of how plugins work in Jjo. It adds a "Hello" page to the menu, and shows how data is submitted and received in Jojo plugins.
